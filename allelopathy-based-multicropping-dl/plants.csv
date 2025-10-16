@@ -1,0 +1,469 @@
+Source Plant ,Main Allelochemical,Target Plants,Effect
+Ailanthus, Quassin,Foxtail,Strong Inhibition
+Ailanthus, Quassin,Garden Cress,Strong Inhibition
+Ailanthus,Ailanthone,Foxtail,Weakened Inhibition
+Ailanthus,Ailanthone,Garden Cress,Weakened Inhibition
+Ailanthus,Ailanthone,Common Amaranth,Weakened Inhibition
+Ailanthus,Ailanthone,Barnyard Grass,Weakened Inhibition
+Ailanthus,Ailanthone,Maize,No Effect
+Ailanthus,Ailanthone ,Alfalfa,Strong Inhibition
+Ailanthus,Ailanthone ,Mustards,Strong Inhibition
+Ajowan , Carvacrol,Wheat,Weakened Inhibition
+Ajowan , Carvacrol,Barley,Weakened Inhibition
+Ajowan , Carvacrol,Maize,Weakened Exhibition
+Ajowan , Carvacrol,Safflower,Weakened Exhibition
+Ajowan , p-Cymene,Wheat,Weakened Exhibition
+Ajowan , p-Cymene,Barley,Weakened Exhibition
+Ajowan , p-Cymene,Maize,Weakened Exhibition
+Ajowan , p-Cymene,Safflower,Weakened Exhibition
+Ajowan ,Thymol,Wheat,Strong Inhibition
+Ajowan ,Thymol,Barley,Strong Inhibition
+Ajowan ,Thymol,Maize,Weakened Inhibition
+Ajowan ,Thymol,Safflower,Weakened Inhibition
+Alfalfa, Coumarin,Lamb'S Quarters,Weakened Exhibition
+Alfalfa, Coumarin,Prostrate Knotweed,Weakened Exhibition
+Alfalfa,Saponins,Lamb'S Quarters,Weakened Exhibition
+Alfalfa,Saponins,Prostrate Knotweed,Weakened Exhibition
+Alfalfa , Coumarin,Broad Bean,No Effect
+Alfalfa , Coumarin,White Clover,Weakened Exhibition
+Alfalfa , Saponins,Broad Bean,Weakened Exhibition
+Alfalfa , Saponins,White Clover,Weakened Exhibition
+Alfalfa ,Medicarpone,Broad Bean,Weakened Inhibition
+Alfalfa ,Medicarpone,White Clover,Weakened Inhibition
+Aloe vera , Emodin (Anthraquinones),Spiny Pigweed,Strong Inhibition
+Aloe vera , Emodin (Anthraquinones),Common Purslane,Strong Inhibition
+Aloe vera ,Aloin,Spiny Pigweed,Weakened Inhibition
+Aloe vera ,Aloin,Common Purslane,Weakened Inhibition
+Annual wormwood , Artemisinin,Lettuce,Strong Inhibition
+Annual wormwood , Artemisinin,Common Amaranth,Weakened Inhibition
+Annual wormwood , Artemisinin,Pitted Morning-Glory,No Effect
+Annual wormwood , Artemisinin,Purslane,Weakened Inhibition
+Annual wormwood ,Arteether ,Lettuce,Strong Inhibition
+Annual wormwood ,Arteether ,Common Amaranth,Weakened Inhibition
+Annual wormwood ,Arteether ,Pitted Morning-Glory,No Effect
+Annual wormwood ,Arteether ,Purslane,Weakened Inhibition
+Barley,Hordenine,Wild Oat,Strong Inhibition
+Barley,Phenolic acids,Cheatgrass,No Effect
+Barley,Phenolic acids,Wild Oat,No Effect
+Barley , DIMBOA,Wheat,Weakened Exhibition
+Barley , DIMBOA,Barley,No Effect
+Barley , DIMBOA,Other Cereals,Weakened Exhibition
+Barley , Ferulic acid,Wheat,Weakened Exhibition
+Barley , Ferulic acid,Barley,No Effect
+Barley , Ferulic acid,Maize,Weakened Exhibition
+Barley , p-Hydroxybenzoic acid,Wheat,Weakened Exhibition
+Barley , p-Hydroxybenzoic acid,Barley,No Effect
+Barley , p-Hydroxybenzoic acid,Maize,Weakened Exhibition
+Barley ,m-Coumaric acid,Wheat,Weakened Exhibition
+Barley ,m-Coumaric acid,Barley,No Effect
+Barley ,m-Coumaric acid,Maize,Weakened Exhibition
+Basil, Eugenol (Phenylpropanoids),Crabgrass,Weakened Exhibition
+Basil, Eugenol (Phenylpropanoids),Redroot Pigweed,Weakened Exhibition
+Basil,Linalool,Crabgrass,Weakened Inhibition
+Basil,Linalool,Redroot Pigweed,Weakened Inhibition
+Billy Goat Weed," precocene I,II",Slender Amaranth,Weakened Inhibition
+Billy Goat Weed," precocene I,II",Lettuce,Strong Inhibition
+Billy Goat Weed,Conyzalactone,Slender Amaranth,Weakened Inhibition
+Billy Goat Weed,Conyzalactone,Lettuce,Strong Inhibition
+Billy Goat Weed,Precocene II (Sesquiterpenes),Beggarweed,No Effect
+Billy Goat Weed,Precocene II (Sesquiterpenes),Crabgrass,No Effect
+Black Mustard ,Glucosinolates,Wild Oat,Weakened Inhibition
+Black Mustard ,Glucosinolates,Lamb'S Quarters,Weakened Inhibition
+Black Mustard ,Glucosinolates,Curly Dock,Weakened Inhibition
+Black Pepper,Piperine (Alkaloids),Common Purslane,Weakened Exhibition
+Black Pepper,Piperine (Alkaloids),Redroot Pigweed,Weakened Inhibition
+Black Walnut,Juglone,Tomato,Strong Inhibition
+Black Walnut,Juglone,Alfafa,Weakened Inhibition
+Black Walnut,Juglone,Lettuce,Strong Inhibition
+Black Walnut,Juglone,Kentucky Bluegrass,Weakened Inhibition
+Black Walnut ,Juglone,Corn,Strong Inhibition
+Black Walnut ,Juglone,Soybean,Weakened Inhibition
+Black Walnut ,Juglone,Maize,Strong Inhibition
+Black Walnut ,Juglone,Mustard,Weakened Inhibition
+Black Walnut ,Juglone,Horseweed,Strong Inhibition
+Black Walnut ,Juglone,Hairy Fleabane,Strong Inhibition
+Black Walnut ,Juglone,Purslane,Strong Inhibition
+Black Walnut ,Juglone,Tall Annual Morning Glory,Strong Inhibition
+Bottlebrush ,Leptospermone,Hairy Crabgrass,No Effect
+Bottlebrush ,Leptospermone,Yellow Foxtail ,Weakened Inhibition
+Bottlebrush ,Leptospermone,Common Amaranth,Strong Inhibition
+Bottlebrush ,Leptospermone,California Red Oat,Strong Inhibition
+Bottlebrush ,Leptospermone,Indian Mustard,Weakened Inhibition
+Bottlebrush ,Leptospermone,Curly Dock,Strong Inhibition
+Buckwheat ,Flavonoids,Quackgrass,Weakened Exhibition
+Buckwheat ,Flavonoids,Shepherd'S Purse,Weakened Exhibition
+Castor Bean, Alkaloids,Purple Nutsedge,Weakened Inhibition
+Castor Bean, Alkaloids,Spiny Pigweed,Weakened Inhibition
+Castor Bean,Ricin,Purple Nutsedge,Weakened Inhibition
+Castor Bean,Ricin,Spiny Pigweed,Weakened Inhibition
+Catmint , Menthone,Common Amaranth,Weakened Inhibition
+Catmint , Menthone,Pigweed,Weakened Inhibition
+Catmint ,Nepetalactone,Common Amaranth,Weakened Inhibition
+Catmint ,Nepetalactone,Pigweed,Weakened Inhibition
+Ceylon Cinnamon,Cinnamaldehyde (Phenylpropanoids),Barnyardgrass,Strong Inhibition
+Ceylon Cinnamon,Cinnamaldehyde (Phenylpropanoids),Redroot Pigweed,Strong Inhibition
+Chicory,Sesquiterpene lactones,Curly Dock,Weakened Inhibition
+Chicory,Sesquiterpene lactones,Chickweed,Weakened Inhibition
+Chilli Pepper,Capsaicinoids,Crabgrass,No Effect
+Chilli Pepper,Capsaicinoids,Common Purslane,No Effect
+Chilli Pepper ,Capsaicinoids,Bacteria,Strong Inhibition
+Chilli Pepper ,Capsaicinoids,Fungi,Weakened Inhibition
+Chinaberry, Meliatoxins,Green Foxtail,Weakened Inhibition
+Chinaberry, Meliatoxins,Barnyardgrass,Weakened Inhibition
+Chinaberry,Azadirachtin,Green Foxtail,Weakened Inhibition
+Chinaberry,Azadirachtin,Barnyardgrass,Weakened Inhibition
+Chinese Fir,(-)-Caryophyllene,Cunninghamia Lanceolata,No Effect
+Chrysanthemum,Pyrethrins,Green Foxtail,Strong Inhibition
+Chrysanthemum,Pyrethrins,Crabgrass,Strong Inhibition
+Common lantana , lantadene B,Water Hyacinths,Strong Inhibition
+Common lantana , lantadene B, Microcystis Aeruginosa,Strong Inhibition
+Common lantana , lantadene B,Small-Seeded Canary Grass,Strong Inhibition
+Common lantana , lantadene B,Common Wild Oat,Strong Inhibition
+Common lantana , lantadene B,Lamb’S Quarters,Weakened Inhibition
+Common lantana ,Lantadene A ,Water Hyacinths,Strong Inhibition
+Common lantana ,Lantadene A , Microcystis Aeruginosa,Strong Inhibition
+Common lantana ,Lantadene A ,Small-Seeded Canary Grass,Weakened Inhibition
+Common lantana ,Lantadene A ,Common Wild Oat,Weakened Inhibition
+Common lantana ,Lantadene A ,Lamb’S Quarters,Weakened Inhibition
+Coral Tree,Alkaloids,Purple Nutsedge,Weakened Inhibition
+Coral Tree,Alkaloids,Goosegrass,Weakened Inhibition
+Crabgrass , Maltol,Wheat,Weakened Inhibition
+Crabgrass , Maltol,Maize,Strong Inhibition
+Crabgrass , Maltol,Soybean,No Effect
+Crabgrass ,loliolide,Wheat,Weakened Inhibition
+Crabgrass ,loliolide,Maize,Strong Inhibition
+Crabgrass ,loliolide,Soybean,No Effect
+Crabgrass ,Veratric acid,Wheat,Weakened Inhibition
+Crabgrass ,Veratric acid,Maize,Strong Inhibition
+Crabgrass ,Veratric acid,Soybean,No Effect
+Cucumber,Cucurbitacin (Triterpenoids),Redroot Pigweed,No Effect
+Cucumber,Cucurbitacin (Triterpenoids),Barnyardgrass,No Effect
+Eucalyptus, Monoterpenes ,Perennial Ryegrass,Weakened Exhibition
+Eucalyptus, Monoterpenes ,Crabgrass,Weakened Exhibition
+Eucalyptus,Cineole,Perennial Ryegrass,Weakened Exhibition
+Eucalyptus,Cineole,Crabgrass,Weakened Exhibition
+Eucalyptus , Alpha-pinene,Annual Grasses,Weakened Inhibition
+Eucalyptus , Alpha-pinene,Weeds,Weakened Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Weakened Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Weakened Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Strong Inhibition
+Eucalyptus ,"1,8-cineol",Common Amaranth,Weakened Inhibition
+Eucalyptus ,"1,8-cineol",Common Purslane,Weakened Inhibition
+Eucalyptus ,"1,8-Cineole",Annual Grasses,Weakened Inhibition
+Eucalyptus ,"1,8-Cineole",Weeds,Weakened Inhibition
+Fennel,Anethole ,Lamb'S Quarters,Weakened Exhibition
+Fennel,Anethole ,Crabgrass,Weakened Exhibition
+Fennel , Fenchone,Small-Seeded Weeds,Weakened Inhibition
+Fennel ,Anethole,Small-Seeded Weeds,Weakened Inhibition
+Fine fescue grasses ,M-tyrosine,Birdsfoot Trefoil,Weakened Inhibition
+Fine fescue grasses ,M-tyrosine,Large Crabgrass,Weakened Inhibition
+Fine fescue grasses ,M-tyrosine,White Clover,Weakened Inhibition
+Fine fescue grasses ,M-tyrosine,Common Dandelion,Weakened Inhibition
+Fir-moss ,p-Coumaric acid,Lettuce,Weakened Inhibition
+Fir-moss ,p-Coumaric acid,Radish,Weakened Inhibition
+Fork moss ,Caffeic acid,Lettuce,Weakened Exhibition
+Fox-tail moss , Phenolic acids,Radish,Weakened Exhibition
+Fox-tail moss , Phenolic acids,Lettuce,No Effect
+Fox-tail moss ,Pinene,Radish,Weakened Exhibition
+Fox-tail moss ,Pinene,Lettuce,Weakened Exhibition
+Garlic , Diallyl disulfide,Lettuce,Weakened Inhibition
+Garlic ,Allicin,Lettuce,Strong Inhibition
+Geranium , Citronellol,Lettuce,Weakened Exhibition
+Geranium , Citronellol,Crabgrass,Weakened Inhibition
+Geranium ,Geraniol,Lettuce,Weakened Exhibition
+Geranium ,Geraniol,Crabgrass,Weakened Inhibition
+Giant Ragweed,1-Angeloyloxycarotol,Wheat,Strong Inhibition
+Giant ragweed ,1-Angeloyloxycarotol,Wheat,Strong Inhibition
+Giant ragweed ,1-Angeloyloxycarotol,Sunflower,Weakened Inhibition
+Giant Reed , Farnesene,Microcystis Aeruginosa,Weakened Exhibition
+Giant Reed , Geraniol,Microcystis Aeruginosa,Weakened Inhibition
+Giant Reed ,Caryophyllene,Microcystis Aeruginosa,Weakened Exhibition
+Ginger, Gingerol (Sesquiterpenes),Spiny Pigweed,No Effect
+Ginger, Gingerol (Sesquiterpenes),Common Purslane,Weakened Exhibition
+Ginger,Zingiberene,Spiny Pigweed,Weakened Exhibition
+Ginger,Zingiberene,Common Purslane,Weakened Exhibition
+Guava, Quercetin ,Perennial Ryegrass,Weakened Exhibition
+Guava, Quercetin,Lamb'S Quarters,Weakened Exhibition
+Guava,Guajavarin,Perennial Ryegrass,Weakened Exhibition
+Guava,Guajavarin,Lamb'S Quarters,Weakened Exhibition
+Hairy Vetch,Cyanamide,Wild Oat,Strong Inhibition
+Hairy Vetch,Cyanamide,Blackgrass,Weakened Inhibition
+Indian Mustard, Isothiocyanates,Canary Grass,Weakened Inhibition
+Indian Mustard, Isothiocyanates,Lamb'S Quarters,Weakened Exhibition
+Indian Mustard, Isothiocyanates,Curly Dock,Weakened Exhibition
+Indian Mustard,Glucosinolates,Canary Grass,Weakened Inhibition
+Indian Mustard,Glucosinolates,Lamb'S Quarters,Weakened Exhibition
+Indian Mustard,Glucosinolates,Curly Dock,Weakened Exhibition
+Lantana,"Lantadene A,B",Common Purslane,Weakened Inhibition
+Lantana,"Lantadene A,B",Barnyardgrass,Weakened Inhibition
+Lavender, Linalyl acetate,Perennial Ryegrass,Weakened Exhibition
+Lavender, Linalyl acetate,Crabgrass,Weakened Exhibition
+Lavender,Linalool,Perennial Ryegrass,Weakened Exhibition
+Lavender,Linalool,Crabgrass,Weakened Exhibition
+Lavender , Camphor,Weeds,Weakened Inhibition
+Lavender , Camphor,Maize,Weakened Exhibition
+Lavender ,Linalool,Weeds,Weakened Inhibition
+Lavender ,Linalool,Maize,Weakened Exhibition
+Leek,Allyl sulfides ,Common Groundsel,Weakened Inhibition
+Leek,Allyl sulfides ,Chickweed,Weakened Inhibition
+Lemongrass, Geraniol ,Green Foxtail,Weakened Exhibition
+Lemongrass, Geraniol ,Crabgrass,Weakened Exhibition
+Lemongrass,Citral,Green Foxtail,Weakened Inhibition
+Lemongrass,Citral,Crabgrass,Weakened Inhibition
+Lemongrass , Geraniol,Aquatic Plants,Weakened Exhibition
+Lemongrass ,Citral,Arabidopsis Thaliana,Strong Exhibition
+Lemongrass ,Citral,Aquatic Plants,Weakened Exhibition
+Long pepper ,Sarmentine,Field Bindweed,Strong Inhibition
+Long pepper ,Sarmentine,Wild Mustard,No Effect
+Long pepper ,Sarmentine,Horseweed,Weakened Inhibition
+Long pepper ,Sarmentine,Sprangletop,Strong Inhibition
+Maize , BOA ,Canary Grass,Weakened Exhibition
+Maize , BOA,Smooth Pigweed,Weakened Exhibition
+Maize , BOA,Lamb'S Quarters,Weakened Exhibition
+Maize ,Benzoxazinoid hydroxamic acids,Green Foxtail,Weakened Inhibition
+Maize ,DIMBOA,Oat,Weakened Exhibition
+Maize ,DIMBOA,Tobacco,Weakened Exhibition
+Maize ,DIMBOA,Carrot,Weakened Exhibition
+Maize ,DIMBOA,Onion,Weakened Exhibition
+Maize ,DIMBOA,Canary Grass,Weakened Exhibition
+Maize ,DIMBOA,Smooth Pigweed,Weakened Exhibition
+Maize ,DIMBOA,Lamb'S Quarters,Weakened Exhibition
+Marigold ,Thiophene derivatives,Nematodes,Strong Inhibition
+Marigold ,Thiophene derivatives,Weeds,Weakened Inhibition
+Mexican Bush Sage, Terpenoids,Kikuyu Grass,Weakened Exhibition
+Mexican Bush Sage, Terpenoids,Crabgrass,Weakened Exhibition
+Mexican Bush Sage,Essential oils,Kikuyu Grass,Weakened Exhibition
+Mexican Bush Sage,Essential oils,Crabgrass,Weakened Exhibition
+Mexican Sunflower,Sesquiterpene lactones,Redroot Pigweed,Weakened Inhibition
+Mexican Sunflower,Sesquiterpene lactones,Barnyardgrass,Weakened Inhibition
+morning glory ,Tricolorin A,Annual Ryegrass,No Effect
+morning glory ,Tricolorin A,Common Wheat,Strong Inhibition
+morning glory ,Tricolorin A,Tomatillo,Weakened Inhibition
+morning glory ,Tricolorin A,Egyptian Clover,No Effect
+Moso Bamboo , Lignin derivatives,Competing Bamboo Species,Strong Inhibition
+Moso Bamboo ,Catechins,Competing Bamboo Species,Weakened Inhibition
+Mugwort, scopoletin,Rapeseed,Weakened Inhibition
+Mugwort,Artemisinin,Rapeseed,Weakened Inhibition
+Myrtle,"Myrtucommulone A,B",Kentucky Bluegrass,Weakened Inhibition
+Myrtle,"Myrtucommulone A,B",Barnyardgrass,Weakened Inhibition
+Neem, Nimbin,Redroot Pigweed,Weakened Exhibition
+Neem, Nimbin,Barnyardgrass,Weakened Exhibition
+Neem, Salannin ,Redroot Pigweed,Weakened Exhibition
+Neem, Salannin,Barnyardgrass,Weakened Exhibition
+Neem,Azadirachtin,Redroot Pigweed,Weakened Inhibition
+Neem,Azadirachtin,Barnyardgrass,Weakened Inhibition
+Neem , Nimbic acid B,Garden Cress,Strong Inhibition
+Neem , Nimbic acid B,Lettuce,Weakened Inhibition
+Neem , Nimbic acid B,Alfalfa,No Effect
+Neem , Nimbin,Various Pests,Weakened Inhibition
+Neem , Nimbin,Weeds,Weakened Exhibition
+Neem ,Azadirachtin,Various Pests,Strong Inhibition
+Neem ,Azadirachtin,Weeds,Weakened Inhibition
+Neem ,Nimbolide B,Garden Cress,Strong Inhibition
+Neem ,Nimbolide B,Lettuce,Weakened Inhibition
+Neem ,Nimbolide B,Alfalfa,No Effect
+Northern White Cedar,Thujone,Annual Bluegrass,Weakened Inhibition
+Northern White Cedar,Thujone,Green Foxtail,Weakened Inhibition
+Oat,Avenacins,Cheatgrass,Strong Inhibition
+Oat,Avenacins,Annual Bluegrass,Weakened Inhibition
+Onion,Diallyl disulfide,Green Foxtail,No Effect
+Onion,Diallyl disulfide,Lamb'S Quarters,Strong Inhibition
+Papaya,Benzyl isothiocyanate (Isothiocyanates),Green Foxtail,No Effect
+Papaya,Benzyl isothiocyanate (Isothiocyanates),Crabgrass,Weakened Inhibition
+Pea,Pisatin,Green Foxtail,No Effect
+Pea,Pisatin,Redroot Pigweed,Weakened Exhibition
+Pepper, Dicarboxylic acids,Redroot Pigweed,Weakened Exhibition
+Pepper, Dicarboxylic acids,Purple Nutsedge,Weakened Exhibition
+Pepper,p-Coumaric acid,Redroot Pigweed,Weakened Exhibition
+Pepper,p-Coumaric acid,Purple Nutsedge,Weakened Exhibition
+Pepper,Phthalate esters ,Redroot Pigweed,Weakened Inhibition
+Pepper,Phthalate esters ,Purple Nutsedge,Weakened Inhibition
+Pigeon Pea,Phenolic acids,Purple Nutsedge,Weakened Exhibition
+Pigeon Pea,Phenolic acids,Crabgrass,Weakened Exhibition
+Ragweed , Ambrosin,Wheat,Weakened Inhibition
+Ragweed , Ambrosin,Tomato,Weakened Inhibition
+Ragweed , Ambrosin,Maize,Weakened Inhibition
+Ragweed , Ambrosin,Crabgrass,Strong Inhibition
+Ragweed , Coronopilin,Wheat,Weakened Inhibition
+Ragweed , Coronopilin,Tomato,Weakened Inhibition
+Ragweed , Coronopilin,Maize,Weakened Inhibition
+Ragweed , Coronopilin,Crabgrass,Strong Inhibition
+Ragweed ,Parthenin,Wheat,Strong Inhibition
+Ragweed ,Parthenin,Tomato,Strong Inhibition
+Ragweed ,Parthenin,Maize,Strong Inhibition
+Ragweed ,Parthenin,Crabgrass,Strong Inhibition
+Ragweed parthenium ,Parthenin,Green Amaranth,Strong Inhibition
+Ragweed parthenium ,Parthenin,Coffee Senna,Strong Inhibition
+Ragweed parthenium ,Parthenin,Barnyard Grass,Weakened Inhibition
+Ragweed parthenium ,Parthenin,Small-Seeded Canary Grass,Weakened Inhibition
+Rice,Ferulic acid,Barnyardgrass,Weakened Exhibition
+Rice,Ferulic acid,Smallflower Umbrella Sedge,Weakened Exhibition
+Rice,Caffeic acid,Barnyardgrass,Weakened Exhibition
+Rice,Caffeic acid,Smallflower Umbrella Sedge,Weakened Exhibition
+Rice,p-Coumaric acid,Barnyardgrass,Weakened Exhibition
+Rice,p-Coumaric acid,Smallflower Umbrella Sedge,Weakened Exhibition
+Rice,"Momilactone A, B (Diterpenoids)",Barnyardgrass,Weakened Inhibition
+Rice,"Momilactone A, B (Diterpenoids)",Smallflower Umbrella Sedge,Weakened Inhibition
+Rice,"Momilactone A, B (Diterpenoids)",Barnyardgrass,Strong Inhibition
+Rice,"Momilactone A, B (Diterpenoids)",Chinese Sprangletop,Strong Inhibition
+Rice , Momilactone B,Jungle Rice,No Effect
+Rice , Momilactone B,Monarch Redstem,Weakened Inhibition
+Rice , Momilactone B,Gulf Leaf Flower,Weakened Inhibition
+Rice , Momilactone B,Flatsedge,No Effect
+Rice , p-Coumaric acid,Barnyardgrass,Weakened Exhibition
+Rice , Vanillic acid,Barnyardgrass,No Effect
+Rice ,Ferulic acid,Barnyardgrass,Weakened Exhibition
+Rice ,Tricin ,Jungle Rice,No Effect
+Rice ,Tricin ,Monarch Redstem,No Effect
+Rice ,Tricin ,Gulf Leaf Flower,No Effect
+Rice ,Tricin ,Flatsedge,No Effect
+River Red Gum, Limonene,Rigid Ryegrass,Weakened Inhibition
+River Red Gum, Limonene,Barnyardgrass,Weakened Inhibition
+River Red Gum,"1,8-Cineole",Rigid Ryegrass,Weakened Inhibition
+River Red Gum,"1,8-Cineole",Barnyardgrass,Weakened Inhibition
+Rosemary, Rosmarinic acid ,Cheatgrass,Weakened Exhibition
+Rosemary, Rosmarinic acid,Green Foxtail,Weakened Exhibition
+Rosemary,Carnosic acid,Cheatgrass,Weakened Inhibition
+Rosemary,Carnosic acid,Green Foxtail,Weakened Inhibition
+Rosemary , Rosmarinic acid,Lettuce,Weakened Exhibition
+Rosemary , Rosmarinic acid,Purslane,Weakened Exhibition
+Rosemary , Rosmarinic acid,Pathogens,Strong Inhibition
+Rosemary , Rosmarinic acid,Competing Plants,Weakened Inhibition
+Rosemary ,Carnosic acid,Lettuce,Weakened Exhibition
+Rosemary ,Carnosic acid,Purslane,Weakened Exhibition
+Rosemary ,Carnosic acid,Pathogens,Strong Inhibition
+Rosemary ,Carnosic acid,Competing Plants,Weakened Inhibition
+Rye, Alkaloids,Lamb'S Quarters,Weakened Inhibition
+Rye, Alkaloids,Quackgrass,Weakened Inhibition
+Rye,Hydroxamic acids,Lamb'S Quarters,Weakened Inhibition
+Rye,Hydroxamic acids,Quackgrass,Weakened Inhibition
+Rye ,"Benzoxazinoids (DIBOA,BOA)",Lamb'S Quarters,Weakened Inhibition
+Rye ,"Benzoxazinoids (DIBOA,BOA)",Pigweed,Weakened Inhibition
+Sage , Camphor,Broadleaf Weeds,Weakened Inhibition
+Sage , Cineole,Purslane,Weakened Inhibition
+Sage , Cineole,Lamb'S Quarters,Weakened Inhibition
+Sage ,Camphor,Purslane,Weakened Inhibition
+Sage ,Camphor,Lamb'S Quarters,Weakened Inhibition
+Sage ,Thujone,Broadleaf Weeds,Weakened Inhibition
+Sesame , Phenolic acids,Moso Bamboo,Weakened Exhibition
+Sesame , Sesamol,Moso Bamboo,Weakened Exhibition
+Sesame ,Sesamin,Moso Bamboo,Weakened Exhibition
+Shagbark Hickory,Juglone,Maize,Strong Inhibition
+Shagbark Hickory,Juglone,Wheat,Strong Inhibition
+Shepherd's Purse, Flavonoids,Annual Bluegrass,Weakened Exhibition
+Shepherd's Purse, Flavonoids,Dandelion,Weakened Exhibition
+Shepherd's Purse,Glucosinolates,Dandelion,Weakened Inhibition
+Silver Wattle, Tannins,Perennial Ryegrass,Weakened Exhibition
+Silver Wattle, Tannins,Red Clover,Weakened Exhibition
+Silver Wattle,"2,6-Dimethoxy-1",Tomato,Weakened Exhibition
+Silver Wattle,4-benzoquinone,Tomato,Strong Inhibition
+Silver Wattle,Flavonoids,Perennial Ryegrass,Weakened Exhibition
+Silver Wattle,Flavonoids,Red Clover,Weakened Exhibition
+Sorghum,Sorgoleone ,Purple Nutsedge,Weakened Exhibition
+Sorghum,Sorgoleone,Barnyardgrass,Weakened Exhibition
+Sorghum,Sorgoleone,Crabgrass,Weakened Exhibition
+Sorghum ,Sorgoleone,False Cleavers,Weakened Exhibition
+Sorghum ,Sorgoleone,Japanese Dock,Weakened Exhibition
+Sorghum ,Sorgoleone,Indian Jointvetch,Weakened Exhibition
+Sorghum ,Sorgoleone,Common Amaranth,Strong Inhibition
+Sorghum ,Sorgoleone,False Cleavers,Weakened Exhibition
+Sorghum ,Sorgoleone,Indian Jointvetch,Weakened Exhibition
+Sorghum ,Sorgoleone,Chinese Plantain,Weakened Exhibition
+Sorghum ,Sorgoleone,Redroot Pigweed,Weakened Exhibition
+Sorghum ,Sorgoleone,False Daisy,Weakened Exhibition
+Sorghum ,Sorgoleone,Barnyard Grass,Weakened Exhibition
+Sorghum ,Sorgoleone,Hairy Crabgrass,Weakened Exhibition
+Sorghum ,Sorgoleone,Velvetleaf,Weakened Exhibition
+Sorghum ,Sorgoleone,Barnyardgrass,Weakened Exhibition
+Sorghum ,Sorgoleone,Redroot Pigweed,No Effect
+Sorghum bicolor ," Benzoxazinoids (DIBOA,DIMBOA,BOA)",Wild Oat,Weakened Inhibition
+Sorghum bicolor ," Benzoxazinoids (DIBOA,DIMBOA,BOA)",Canary Grass,No Effect
+Sorghum bicolor ," Benzoxazinoids (DIBOA,DIMBOA,BOA)",Wheat,No Effect
+Sorghum bicolor , Cyanogenic glycosides (Dhurrin),Wild Oat,Strong Exhibition
+Sorghum bicolor , Cyanogenic glycosides (Dhurrin),Canary Grass,Weakened Exhibition
+Sorghum bicolor , Cyanogenic glycosides (Dhurrin),Wheat,No Effect
+Sorghum bicolor ,p-Hydroxybenzoic acid,Wild Oat,Weakened Exhibition
+Sorghum bicolor ,p-Coumaric acid,Canary Grass,No Effect
+Sorghum bicolor ,Ferulic acid,Wheat,No Effect
+Sorghum bicolor ,p-Hydroxybenzoic acid,Wild Oat,Weakened Exhibition
+Sorghum bicolor ,p-Coumaric acid,Canary Grass,No Effect
+Sorghum bicolor ,Ferulic acid,Wheat,No Effect
+Sorghum bicolor ,p-Hydroxybenzoic acid ,Wild Oat,Weakened Exhibition
+Sorghum bicolor ,p-Coumaric acid,Canary Grass,No Effect
+Sorghum bicolor ,Ferulic acid,Wheat,No Effect
+Sorghum bicolor ,Sorgoleone,Wild Oat,Weakened Exhibition
+Sorghum bicolor ,Sorgoleone,Canary Grass,Weakened Exhibition
+Sorghum bicolor ,Sorgoleone,Wheat,No Effect
+Spearmint, Pulegone ,Lamb'S Quarters,Weakened Exhibition
+Spearmint, Pulegone ,Annual Bluegrass,No Effect
+Spearmint,Menthol,Lamb'S Quarters,No Effect
+Spearmint,Menthol,Annual Bluegrass,No Effect
+Spearmint , Pulegone,Broadleaf Weeds,Weakened Inhibition
+Spearmint ,Menthol,Broadleaf Weeds,Strong Inhibition
+Step moss ,Vanillic acid,Lettuce,No Effect
+Sunflower, Phenolic acids,Parthenium Weed,Weakened Exhibition
+Sunflower, Phenolic acids,Horse Purslane,Weakened Exhibition
+Sunflower,Helianthins,Parthenium Weed,Strong Inhibition
+Sunflower,Helianthins,Horse Purslane,Strong Inhibition
+Sunflower , Flavonoids (Luteolin),Green Foxtail,Weakened Exhibition
+Sunflower , Flavonoids (Luteolin),Smooth Pigweed,Weakened Exhibition
+Sunflower ,Sesquiterpene lactones ,Green Foxtail,Strong Inhibition
+Sunflower ,Sesquiterpene lactones ,Smooth Pigweed,Strong Inhibition
+Sunflower ,Heliannuols,Hairy Crabgrass,Weakened Inhibition
+Sunflower ,Heliannuols,Prickly Sida,Strong Inhibition
+Sunflower ,Heliannuols,Common Tumbleweed,Weakened Inhibition
+Sunn Hemp,Pyrrolizidine alkaloids,Purple Nutsedge,No Effect
+Sunn Hemp,Pyrrolizidine alkaloids,Spiny Pigweed,Weakened Inhibition
+Sweet Orange, Citral,Redroot Pigweed,Weakened Exhibition
+Sweet Orange, Citral,Lamb'S Quarters,Weakened Exhibition
+Sweet Orange,Limonene,Redroot Pigweed,Weakened Exhibition
+Sweet Orange,Limonene,Lamb'S Quarters,Weakened Exhibition
+Sweet Wormwood,Artemisinin,Smooth Pigweed,Weakened Inhibition
+Sweet Wormwood,Artemisinin,Lamb'S Quarters,Weakened Inhibition
+Tall Fescue, p-Coumaric acid ,Annual Bluegrass,Weakened Exhibition
+Tall Fescue, p-Coumaric acid,Yellow Nutsedge,Weakened Exhibition
+Tall Fescue,Ferulic acid,Annual Bluegrass,Weakened Exhibition
+Tall Fescue,Ferulic acid,Yellow Nutsedge,Weakened Exhibition
+Tamarind, Tartaric acid ,Barnyardgrass,No Effect
+Tamarind, Tartaric acid ,Smooth Pigweed,Weakened Exhibition
+Tamarind,Tamarindin,Barnyardgrass,Weakened Inhibition
+Tamarind,Tamarindin,Smooth Pigweed,Weakened Inhibition
+Tobacco,Nicotine (Alkaloids),Green Foxtail,Strong Inhibition
+Tobacco,Nicotine (Alkaloids),Smooth Pigweed,Strong Inhibition
+Tree moss , Phenolic acids,Radish,Weakened Exhibition
+Tree moss ,Limonene,Radish,Weakened Exhibition
+Turmeric,Curcumin (Phenylpropanoids),Annual Bluegrass,Weakened Exhibition
+Turmeric,Curcumin (Phenylpropanoids),Redroot Pigweed,Weakened Exhibition
+Velvet Bean,L-DOPA (Amino acids),Guinea Grass,Weakened Exhibition
+Velvet Bean,L-DOPA (Amino acids),Southern Crabgrass,Weakened Exhibition
+Wheat,Ferulic acid,Lambsquarters,Weakened Exhibition
+Wheat,Ferulic acid,Green Foxtail,Weakened Exhibition
+Wheat,p-Coumaric acid,Lambsquarters,Weakened Exhibition
+Wheat,p-Coumaric acid,Green Foxtail,Weakened Exhibition
+Wheat,Vanillic acid,Lambsquarters,Weakened Exhibition
+Wheat,Vanillic acid,Green Foxtail,Weakened Exhibition
+Wheat,Syringic acid,Lambsquarters,Weakened Exhibition
+Wheat,Syringic acid,Green Foxtail,Weakened Exhibition
+Wheat,"Benzoxazinoids (DIMBOA,BOA)",Lambsquarters,Weakened Inhibition
+Wheat,"Benzoxazinoids (DIMBOA,BOA)",Green Foxtail,Weakened Inhibition
+Wheat,DIMBOA,Wild Oat,Weakened Exhibition
+Wheat,DIMBOA,Canary Grass,Weakened Exhibition
+Wheat,DIMBOA,Lamb'S Quarters,Weakened Exhibition
+Wheat , Ferulic acid,Annual Ryegrass,Weakened Exhibition
+Wheat ,BOA,Tobacco,Weakened Exhibition
+Wheat ,BOA,Maize,Weakened Exhibition
+Wheat ,p-Hydroxybenzoic acid,Annual Ryegrass,Strong Inhibition
+White Clover,Isoflavonoids,Kentucky Bluegrass,Weakened Exhibition
+White Clover,Isoflavonoids,Chickweed,Weakened Exhibition
+White Clover ,Isoflavonoids (Genistein),Broadleaf Weeds,Weakened Exhibition
+White Clover ,Isoflavonoids (Genistein),Grasses,Weakened Exhibition
+White Lupin,Glucosinolates,Annual Bluegrass,Weakened Inhibition
+White Lupin,Quinolizidine alkaloids,Redroot Pigweed,Weakened Inhibition
+Woolly moss ,Sabinene,Radish,Weakened Exhibition
