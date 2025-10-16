@@ -85,7 +85,7 @@ Black Walnut ,Juglone,Hairy Fleabane,Strong Inhibition
 Black Walnut ,Juglone,Purslane,Strong Inhibition
 Black Walnut ,Juglone,Tall Annual Morning Glory,Strong Inhibition
 Bottlebrush ,Leptospermone,Hairy Crabgrass,No Effect
-Bottlebrush ,Leptospermone,Yellow Foxtail ,Weakened Inhibition
+Bottlebrush ,Leptospermone,Yellow FoxtailÂ ,Weakened Inhibition
 Bottlebrush ,Leptospermone,Common Amaranth,Strong Inhibition
 Bottlebrush ,Leptospermone,California Red Oat,Strong Inhibition
 Bottlebrush ,Leptospermone,Indian Mustard,Weakened Inhibition
@@ -116,15 +116,15 @@ Chinese Fir,(-)-Caryophyllene,Cunninghamia Lanceolata,No Effect
 Chrysanthemum,Pyrethrins,Green Foxtail,Strong Inhibition
 Chrysanthemum,Pyrethrins,Crabgrass,Strong Inhibition
 Common lantana , lantadene B,Water Hyacinths,Strong Inhibition
-Common lantana , lantadene B, Microcystis Aeruginosa,Strong Inhibition
+Common lantana , lantadene B,Â Microcystis Aeruginosa,Strong Inhibition
 Common lantana , lantadene B,Small-Seeded Canary Grass,Strong Inhibition
 Common lantana , lantadene B,Common Wild Oat,Strong Inhibition
-Common lantana , lantadene B,Lamb’S Quarters,Weakened Inhibition
+Common lantana , lantadene B,Lambâ€™S Quarters,Weakened Inhibition
 Common lantana ,Lantadene A ,Water Hyacinths,Strong Inhibition
-Common lantana ,Lantadene A , Microcystis Aeruginosa,Strong Inhibition
+Common lantana ,Lantadene A ,Â Microcystis Aeruginosa,Strong Inhibition
 Common lantana ,Lantadene A ,Small-Seeded Canary Grass,Weakened Inhibition
 Common lantana ,Lantadene A ,Common Wild Oat,Weakened Inhibition
-Common lantana ,Lantadene A ,Lamb’S Quarters,Weakened Inhibition
+Common lantana ,Lantadene A ,Lambâ€™S Quarters,Weakened Inhibition
 Coral Tree,Alkaloids,Purple Nutsedge,Weakened Inhibition
 Coral Tree,Alkaloids,Goosegrass,Weakened Inhibition
 Crabgrass , Maltol,Wheat,Weakened Inhibition
@@ -300,9 +300,9 @@ Ragweed ,Parthenin,Tomato,Strong Inhibition
 Ragweed ,Parthenin,Maize,Strong Inhibition
 Ragweed ,Parthenin,Crabgrass,Strong Inhibition
 Ragweed parthenium ,Parthenin,Green Amaranth,Strong Inhibition
-Ragweed parthenium ,Parthenin,Coffee Senna,Strong Inhibition
-Ragweed parthenium ,Parthenin,Barnyard Grass,Weakened Inhibition
-Ragweed parthenium ,Parthenin,Small-Seeded Canary Grass,Weakened Inhibition
+Ragweed partheniumÂ ,Parthenin,Coffee Senna,Strong Inhibition
+Ragweed partheniumÂ ,Parthenin,Barnyard Grass,Weakened Inhibition
+Ragweed partheniumÂ ,Parthenin,Small-Seeded Canary Grass,Weakened Inhibition
 Rice,Ferulic acid,Barnyardgrass,Weakened Exhibition
 Rice,Ferulic acid,Smallflower Umbrella Sedge,Weakened Exhibition
 Rice,Caffeic acid,Barnyardgrass,Weakened Exhibition
@@ -416,9 +416,9 @@ Sunflower , Flavonoids (Luteolin),Green Foxtail,Weakened Exhibition
 Sunflower , Flavonoids (Luteolin),Smooth Pigweed,Weakened Exhibition
 Sunflower ,Sesquiterpene lactones ,Green Foxtail,Strong Inhibition
 Sunflower ,Sesquiterpene lactones ,Smooth Pigweed,Strong Inhibition
-Sunflower ,Heliannuols,Hairy Crabgrass,Weakened Inhibition
-Sunflower ,Heliannuols,Prickly Sida,Strong Inhibition
-Sunflower ,Heliannuols,Common Tumbleweed,Weakened Inhibition
+SunflowerÂ ,Heliannuols,Hairy Crabgrass,Weakened Inhibition
+SunflowerÂ ,Heliannuols,Prickly Sida,Strong Inhibition
+SunflowerÂ ,Heliannuols,Common Tumbleweed,Weakened Inhibition
 Sunn Hemp,Pyrrolizidine alkaloids,Purple Nutsedge,No Effect
 Sunn Hemp,Pyrrolizidine alkaloids,Spiny Pigweed,Weakened Inhibition
 Sweet Orange, Citral,Redroot Pigweed,Weakened Exhibition
